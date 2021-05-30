@@ -16,7 +16,7 @@
     "type": "git",
     "url": "https://github.com/metalsmith/permalinks.git"
   },
-  "version": "2.2.0",
+  "version": "2.3.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
@@ -56,6 +56,7 @@
     "rules": {
       "capitalized-comments": "off",
       "new-cap": "off",
+      "func-names": "off",
       "unicorn/no-reduce": "off",
       "unicorn/prevent-abbreviations": "off",
       "no-console": "warn",

@@ -147,6 +147,9 @@ const fixtures = [
       }
     }
   },
+  /** The 2 tests below only work when the alphabetical ordering of file names is logical,
+   * i.e. they will succeed for 2 files in the same folder named "2-two/3-three.html" but will fail for "two/three.html"
+   * @see https://github.com/metalsmith/permalinks/issues/5 */
   {
     message: 'should make urls unique',
     folder: 'unique-urls',

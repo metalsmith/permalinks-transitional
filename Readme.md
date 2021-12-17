@@ -1,3 +1,8 @@
+## NOTE:
+Please submit PR's & issues at [metalsmith/metalsmith-permalinks](https://github.com/metalsmith/metalsmith-permalinks)  
+This is a transitional repo that was used to push fixes while the original was not under org control.
+---
+
 # @metalsmith/permalinks
 
 [![npm version][npm-badge]][npm-url]
